@@ -1,7 +1,7 @@
 ---
 name: Documentation
 about: Found a typo or something that isn't crystal clear in our docs?
-title: '[Docs]: '
+title: "[Docs]: "
 labels: documentation
 assignees: ''
 
